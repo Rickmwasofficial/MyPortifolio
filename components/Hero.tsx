@@ -28,7 +28,7 @@ const Hero = () => {
                 <div className="relative flex justify-center items-center h-full">
                     <div className="absolute inset-0 bg-gradient-to-l from-dark-bg via-dark-bg/80 to-transparent z-10 md:hidden"></div>
                      <img
-                        src={"me.jpg"}
+                        src={"https://res.cloudinary.com/dhywsjewn/image/upload/v1754128030/me_fkspzu.jpg"}
                         alt="Erick Mwangi"
                         className="w-full max-w-md h-auto object-cover filter grayscale"
                     />
