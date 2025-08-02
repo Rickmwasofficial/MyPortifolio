@@ -131,7 +131,7 @@ export const PROJECTS: Project[] = [
         { name: 'Tailwind CSS', icon: TbBrandTailwind },
         { name: 'Node.js', icon: TbBrandNodejs }
     ],
-    image: 'kieru.png',
+    image: 'https://res.cloudinary.com/dhywsjewn/image/upload/v1754128032/kieru_vekdq6.png',
     status: 'In Progress',
     demo: 'https://kierufoods.co.ke'
   },
@@ -144,7 +144,7 @@ export const PROJECTS: Project[] = [
         { name: 'Pandas', icon: SiPandas }
     ],
     github: 'https://github.com/Rickmwasofficial/air_pollution',
-    image: 'airpollution.png',
+    image: 'https://res.cloudinary.com/dhywsjewn/image/upload/v1754128121/airpollution_zrdmvk.png',
     status: 'Completed',
   },
   {
@@ -156,7 +156,7 @@ export const PROJECTS: Project[] = [
         { name: 'Pandas', icon: SiPandas }
     ],
     github: 'https://github.com/Rickmwasofficial/Food-Vision-Mini',
-    image: 'foodvision.png',
+    image: 'https://res.cloudinary.com/dhywsjewn/image/upload/v1754128067/foodvision_oowyx0.png',
     status: 'Completed',
   },
   {
@@ -168,7 +168,7 @@ export const PROJECTS: Project[] = [
         { name: 'Pandas', icon: SiPandas }
     ],
     github: 'https://github.com/Rickmwasofficial/Animal_Image_Recognition',
-    image: 'air.png',
+    image: 'https://res.cloudinary.com/dhywsjewn/image/upload/v1754128122/air_bmkfcy.png',
     status: 'Completed',
   },
   {
@@ -180,7 +180,7 @@ export const PROJECTS: Project[] = [
         { name: 'NASA API', icon: SiNasa}
     ],
     github: 'https://github.com/Rickmwasofficial/StarVault',
-    image: 'STARVAULT2.png',
+    image: 'https://res.cloudinary.com/dhywsjewn/image/upload/v1754128098/STARVAULT2_j1hz9s.png',
     status: 'Completed'
   },
   {
@@ -193,7 +193,7 @@ export const PROJECTS: Project[] = [
         { name: 'React Native', icon: TbBrandReactNative },
     ],
     github: 'https://github.com/Rickmwasofficial/blue-app',
-    image: 'blue.png',
+    image: 'https://res.cloudinary.com/dhywsjewn/image/upload/v1754128063/blue_lfqc3n.png',
     status: 'Completed',
   },
 ];
