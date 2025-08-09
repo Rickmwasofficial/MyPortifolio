@@ -10,6 +10,7 @@ import Blog from './components/Blog';
 import { NAV_LINKS } from './constants';
 import Experience from './components/Experience';
 import Leadership from './components/Leadership';
+import { Analytics } from '@vercel/analytics/react';
 
 const SideNav: React.FC<{ activeSection: string }> = ({ activeSection }) => {
   const sideNavLinks = NAV_LINKS.filter(link => link.href.startsWith('#'));
@@ -82,6 +83,7 @@ function App() {
         <Blog />
       </main>
       <Footer />
+      <Analytics />
     </div>
   );
 }
